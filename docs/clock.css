@@ -1,0 +1,8 @@
+.clock {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-family: Consolas;
+  font-size: 10vw;
+  height: 40%;
+}

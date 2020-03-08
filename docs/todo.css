@@ -1,0 +1,13 @@
+.todo-list {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-end;
+  padding: 2vw;
+  box-sizing: border-box;
+}
+
+.todo-item {
+  font-size: 4vw;
+}

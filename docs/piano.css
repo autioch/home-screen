@@ -1,0 +1,10 @@
+.piano {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.piano > iframe {
+  width: 45vw;
+  height: 25.3125vw;
+}
